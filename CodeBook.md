@@ -1,6 +1,3 @@
-##This is the code book for the project
-
-
 ## About the source data
 The source data are from the Human Activity Recognition Using Smartphones Data Set. A full description is available at the site where the data was obtained:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
