@@ -13,8 +13,13 @@ R script "run_analysis.R" performs the following steps:
 
 ## About variables:   
 `x_train`, `y_train`, `x_test`, `y_test`, `subject_train` and `subject_test` contain the data from the downloaded files.
+
 `x_data`, `y_data` and `subject_data` merge the previous datasets for the analysis.
-`features` contains the correct names for the `x_data` dataset
-`final_set` is the merged version of train and test datasets
-`MeanandStd` contains the mean and std of the measurements
-`newSet` is the tidy dataset after the cleaning 
+
+`features` contains the correct names for the `x_data` dataset.
+
+`final_set` is the merged version of train and test datasets.
+
+`MeanandStd` contains the mean and std of the measurements.
+
+`newSet` is the tidy dataset after the cleaning.
